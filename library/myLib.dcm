@@ -1,0 +1,64 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BC860C
+D 30V Vce, 0.1A Ic, NPN, Small Signal Transistor, TO-92
+K BC413 NPN Transistor
+F http://www.cdil.com/datasheets/bc413_14_b_c.pdf
+$ENDCMP
+#
+$CMP GND
+K POWER, PWR
+$ENDCMP
+#
+$CMP LM1117-1.8
+D 800mA Low-Dropout Linear Regulator, 1.8V fixed output
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP LM1117-2.5
+D 800mA Low-Dropout Linear Regulator, 2.5V fixed output
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP LM1117-3.3
+D 800mA Low-Dropout Linear Regulator, 3.3V fixed output
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP LM1117-3V3
+D 800mA Low-Dropout Linear Regulator, adjustable output
+K linear regulator ldo adjustable positive
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP LM1117-5.0
+D 800mA Low-Dropout Linear Regulator, 5.0V fixed output
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP LM1117-ADJ
+D 800mA Low-Dropout Linear Regulator, adjustable output
+K linear regulator ldo adjustable positive
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP MICRO-B_USB
+D Micro-B USB connector
+$ENDCMP
+#
+$CMP PBSS301NX
+D 30V Vce, 0.1A Ic, NPN, Small Signal Transistor, TO-92
+K BC413 NPN Transistor
+F http://www.cdil.com/datasheets/bc413_14_b_c.pdf
+$ENDCMP
+#
+$CMP mh
+D Connector, single row, 01x01, pin header
+K connector
+$ENDCMP
+#
+#End Doc Library
