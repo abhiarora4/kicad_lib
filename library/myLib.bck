@@ -6,6 +6,11 @@ K BC413 NPN Transistor
 F http://www.cdil.com/datasheets/bc413_14_b_c.pdf
 $ENDCMP
 #
+$CMP Crystal_GND24
+D Two pin crystal, two ground/package pins (pin2 and 4) small symbol
+K quartz ceramic resonator oscillator
+$ENDCMP
+#
 $CMP GND
 K POWER, PWR
 $ENDCMP
