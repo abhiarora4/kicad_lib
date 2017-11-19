@@ -1,4 +1,4 @@
-(module mounting_hole (layer F.Cu) (tedit 598351AB)
+(module mounting_hole (layer F.Cu) (tedit 5A05910A)
   (descr "Mounting hole, Befestigungsbohrung, 2,5mm, No Annular, Kein Restring,")
   (tags "Mounting hole, Befestigungsbohrung, 2,5mm, No Annular, Kein Restring,")
   (fp_text reference mh4 (at -0.0127 -1.9558) (layer F.SilkS) hide
@@ -11,5 +11,5 @@
   (fp_line (start 1.5 1.5) (end 1.5 -1.5) (layer F.SilkS) (width 0.15))
   (fp_line (start 1.5 -1.5) (end -1.5 -1.5) (layer F.SilkS) (width 0.15))
   (fp_line (start -1.5 -1.5) (end -1.5 1.5) (layer F.SilkS) (width 0.15))
-  (pad 1 thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2) (layers *.Cu *.SilkS *.Mask))
+  (pad 1 thru_hole circle (at 0 0) (size 2.5 2.5) (drill 2) (layers *.Cu *.SilkS *.Mask))
 )
