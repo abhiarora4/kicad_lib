@@ -1,0 +1,14 @@
+Component   : C_0402
+PCB Library : myLib.PcbLib
+Date        : 1/29/2018
+Time        : 12:04:38 AM
+
+
+
+Dimension : 2.134 x 0.965 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Overlay                 0          4        0       0        0
+--------------------------------------------------------------------
+ Total                       0          4        0       0        0
