@@ -1,0 +1,8 @@
+Component Rule Check Report for : C:\Users\iohertz\Documents\GitHub\kicad_lib\altium\altium_libraries\myLib.SchLib
+
+
+Name                Errors
+------------------------------------------------------------------
+IC-LPF-0868LP15A020E(Missing Pin Number In Sequence : 2,6 [1..9]) 
+D-Philips-BAT54C-Schottky-30V-200mA(Duplicate Pin Number : Normal: 3) 
+D-Philips-BAT54-Schottky(Missing Pin Number In Sequence : 2 [1..3]) 
